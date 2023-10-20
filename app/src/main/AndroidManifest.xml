@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Noti">
         <activity
+            android:name=".ReservationActivity"
+            android:exported="false" />
+        <activity
             android:name=".GameInfoActivity"
             android:exported="false" />
         <activity
